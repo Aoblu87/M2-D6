@@ -1,0 +1,76 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    margin: 0%;
+    padding: 0%;
+}
+
+main {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+
+#title-container {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    width: 30%;
+}
+
+title {
+    margin: 0%;
+    padding: 0%;
+}
+
+#table-container {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+
+#product-container {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+.element-table {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    width: 20%;
+}
+
+.element-title {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+#image-container {
+    margin: 0%;
+    padding: 0%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-product {
+    margin: 0%;
+    padding: 0%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
