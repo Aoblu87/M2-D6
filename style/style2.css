@@ -1,0 +1,57 @@
+#title-container{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+#table-container{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    border-top: solid 1px black;
+    border-bottom: solid black 1px;
+}
+#column-a{
+    display: flex;
+    flex-direction: column;
+}
+.column{
+    margin: 0%;
+    padding: 0%;
+   
+
+}
+
+
+.table-cell{
+    
+    margin: 0%;
+    padding: 1%;
+   
+    border-right: solid black 1px;
+    border-left: solid black 1px;
+}
+img{
+    width: 78%;
+    height: auto;
+}
+
+#column-c p{
+    font-size: 10pt;
+    text-align: center;
+}
+
+#footer{
+    display: flex;
+    flex-direction: column;
+}
+#shop-name{
+margin: 0%;
+padding: 0%;
+
+}
+#shop-address{
+    margin: 0%;
+    padding: 0%;
+
+}
